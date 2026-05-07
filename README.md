@@ -9,10 +9,6 @@
 
 ---
 
-## Demo
-
-![Demo](assets/demo.png)
-
 ---
 
 ## Overview
@@ -101,7 +97,7 @@ The trained model weights (`best.pt`) are available in this repository.
 Download directly:
 ```bash
 # Clone the repo to get best.pt
-git clone https://github.com/YOUR_USERNAME/yolov12-object-detection
+git clone https://github.com/rakibulnishat/yolov12-object-detection
 ```
 
 ---
